@@ -18,4 +18,4 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 
 
-echo "<h2>  Fiap aula </h2>"
+echo "<h2>  Fiap aula </h2>"   
